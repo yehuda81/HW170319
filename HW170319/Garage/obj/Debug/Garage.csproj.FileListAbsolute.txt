@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\HW170319\Garage\bin\Debug\Garage.exe.config
+C:\Users\HackerU\source\repos\HW170319\Garage\bin\Debug\Garage.exe
+C:\Users\HackerU\source\repos\HW170319\Garage\bin\Debug\Garage.pdb
+C:\Users\HackerU\source\repos\HW170319\Garage\obj\Debug\Garage.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\HW170319\Garage\obj\Debug\Garage.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\HW170319\Garage\obj\Debug\Garage.exe
+C:\Users\HackerU\source\repos\HW170319\Garage\obj\Debug\Garage.pdb
